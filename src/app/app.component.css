@@ -1,0 +1,7 @@
+mat-toolbar{
+    background-color: #999999 !important;
+}
+.large-toolbar{
+    height: 80px;
+    font-size: 1.5rem;
+}
